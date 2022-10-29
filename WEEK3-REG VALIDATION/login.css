@@ -1,0 +1,52 @@
+body{
+    background-color :grey;
+   
+}
+
+#newform {
+    background-color :white;
+    padding :30px;
+    margin:50px;
+}
+label{
+    padding-top :10px;
+    padding-bottom:15px;
+}
+input{
+    padding-top :10px;
+    padding-bottom:10px;
+    width :90%;  
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc
+  box-sizing: border-box;
+  background-color :#f1f1f1;
+  }          
+input[type="checkbox"] {
+  width: fit-content;
+}
+h3{
+    text-align :center;
+}
+
+button {
+
+   background-color :#3cdfff;
+    border:none;
+    width:80%;
+    padding :15px;
+    margin :20px
+  font-size :15px;
+}
+input[type="submit"] {
+  background-color: #0a3780;
+  border: none;
+  color: #e6e6e6;
+  font-size: 1rem;
+  padding: .5rem 1rem;
+}
+
+ span{
+     float: right;
+     margin-top :12px;
+   }
